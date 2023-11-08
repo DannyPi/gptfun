@@ -1,0 +1,2 @@
+# gptfun
+Experiments with Openai
